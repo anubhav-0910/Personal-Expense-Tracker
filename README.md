@@ -14,11 +14,6 @@ A simple and intuitive personal expense tracking app that helps you keep track o
 
 - Categorize Expenses: Categorize your expenses into predefined categories such as food, transportation, entertainment, etc., or create custom categories.
 
-- Export Data: Export your expenses data in a CSV format for backup or to view it in a spreadsheet.
-
-- Multi-Currency Support: Support for multiple currencies, allowing you to track expenses in any currency you prefer.
-
-- Passcode Protection: Keep your financial information secure with a passcode protection feature.
 
 ## Getting Started
 
@@ -27,7 +22,3 @@ To get started with the Personal Expense Tracker app, simply clone the repositor
 ## Contributing
 
 We welcome contributions to the Personal Expense Tracker app. If you would like to contribute, please fork the repository and create a pull request with your changes.
-
-## License
-
-The Personal Expense Tracker app is licensed under the [MIT License](https://opensource.org/licenses/MIT).
