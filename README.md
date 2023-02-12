@@ -1,16 +1,33 @@
-# expense_track
+# Personal Expense Tracker
 
-A new Flutter project.
+A simple and intuitive personal expense tracking app that helps you keep track of your daily expenses and manage your finances effectively. With this app, you can easily record, categorize, and view your spending patterns, enabling you to make informed decisions about your money.
+
+## Key Features
+
+- Easy and Intuitive User Interface: The app features a clean and simple user interface that makes it easy to navigate and use.
+
+- Record Expenses: Quickly and easily add new expenses with just a few taps, including the date, amount, category, and description.
+
+- View Expenses: View all your expenses in one place, grouped by category and sorted by date, making it easy to track your spending patterns.
+
+- Edit and Delete Expenses: Easily edit or delete existing expenses in case of any errors or changes.
+
+- Categorize Expenses: Categorize your expenses into predefined categories such as food, transportation, entertainment, etc., or create custom categories.
+
+- Export Data: Export your expenses data in a CSV format for backup or to view it in a spreadsheet.
+
+- Multi-Currency Support: Support for multiple currencies, allowing you to track expenses in any currency you prefer.
+
+- Passcode Protection: Keep your financial information secure with a passcode protection feature.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the Personal Expense Tracker app, simply clone the repository and install the dependencies using npm. Then, run the app using the command `npm run start` and follow the on-screen instructions to set it up on your device.
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+We welcome contributions to the Personal Expense Tracker app. If you would like to contribute, please fork the repository and create a pull request with your changes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+The Personal Expense Tracker app is licensed under the [MIT License](https://opensource.org/licenses/MIT).
